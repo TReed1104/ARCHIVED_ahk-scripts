@@ -3,5 +3,5 @@
 return
 
 ^F2::
-    Run code
+    Run C:\Program Files\Microsoft VS Code\Code.exe
 return
